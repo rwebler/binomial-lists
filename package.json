@@ -1,0 +1,14 @@
+{
+  "name": "binomial",
+  "version": "0.0.1",
+  "description": "Binomial Tests for W+M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binomjs": "^0.1.1"
+  }
+}
